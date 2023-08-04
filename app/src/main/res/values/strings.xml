@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="formprod_nome">Nome</string>
+    <string name="formprod_descricao">Descrição</string>
+    <string name="formprod_valor">Valor</string>
+    <string name="formprod_salvar">Salvar</string>
+    <string name="descricao_fab">Botão para adicionar produto</string>
+</resources>
